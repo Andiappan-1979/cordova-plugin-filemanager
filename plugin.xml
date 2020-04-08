@@ -9,7 +9,7 @@
     <engine name="cordova" version=">=3.4.0"/>
   </engines>
 
-  <asset src="www/filemanager.js" target="js/filemanager.js"/>
+ 
 
   <js-module src="www/filemanager.js" name="filemanager">
     <clobbers target="filemanager" />
